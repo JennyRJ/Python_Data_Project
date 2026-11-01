@@ -1,2 +1,5 @@
 .conda/
 jobs_data.csv
+jobs_data.xlsx
+conda
+pip
